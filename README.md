@@ -233,7 +233,7 @@ ANALÍSIS DE APP AFFORABLE
 
 ## Propuesta
 
-![screen shot views](assets/images/screen shot views.png)
+![screen shot views](assets/images/views.png)
 
 ## Descripción de propuesta ##
 UI
